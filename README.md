@@ -7,18 +7,7 @@ My inspiration for this assignment was the “fearless” era transition from Ta
 
 ![An image of the transition](assets/Inspiration_2.jpg)
 
-
-
-
-
 ![An image of the transition](assets/Inspiration_1.jpg)
-
-
-
-
-
-
-
 
 ## Part 2: Coding Technique Exploration
 I will use the Particle System coding technique to replace the circles with other shapes and modify their positions by modifying the speed at which they move and how they are displayed. In addition to this, I will modify their colors to vary within a certain range. I will also modify the direction of movement of the particles to give them some interesting variations.
