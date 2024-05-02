@@ -18,8 +18,3 @@ I will use the Particle System coding technique to replace the circles with othe
 ![An image of the technique](assets/technique_example.png)
 
 [Link of the techqnique](https://p5js.org/zh-Hans/examples/simulate-particle-system.html)
-
-
-
-
-
